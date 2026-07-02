@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhh2903" alt="shubhh2903" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://shubhamlilawala.netlify.app/](https://shubhamlilawala.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shubham-lilawala.vercel.app/](https://shubham-lilawala.vercel.app/)
 
 - 📝 I regularly write articles on [https://multicodegenius.com/blogs](https://multicodegenius.com/blogs)
 
